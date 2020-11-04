@@ -4,7 +4,7 @@
 
 `composer require absystem/wsbpjs`
 
-#### SETTING CONFIG
+#### SETTING CONFIG :computer:
 
 ```php
  
@@ -39,7 +39,7 @@ $config = [
 ];
 ```
 
-#### PENGGUNAAN
+#### PENGGUNAAN :tada:
 ```php
 require_once __DIR__ . '/vendor/autoload.php';
 $referensi = new ABSystem\Bpjs\VClaim\Referensi($config);
@@ -47,12 +47,12 @@ var_dump($referensi->diagnosa('A00'));
 
 ```
 
-#### REFERENSI REST
+#### REFERENSI REST :clipboard:
 vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 <br/>
 pcare = https://new-api.bpjs-kesehatan.go.id/pcare-rest-v3.0/
 
 
-#### Credit thanks ::pray::thumbsup:
+#### Credit Thanks : :pray: :thumbsup:
 
 https://github.com/nsulistiyawan/bpjs
