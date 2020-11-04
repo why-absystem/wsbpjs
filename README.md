@@ -60,6 +60,6 @@ var_dump($referensi->diagnosa('A00'));
 :white_small_square: pcare = https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0/
 
 
-#### :link:&nbsp;&nbsp;CREDIT THANKS :thumbsup:
+#### :link:&nbsp;&nbsp;BASED ON & CREDIT THANKS :thumbsup:
 
 https://github.com/nsulistiyawan/bpjs
