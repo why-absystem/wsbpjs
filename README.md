@@ -53,6 +53,6 @@ vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 pcare = https://new-api.bpjs-kesehatan.go.id/pcare-rest-v3.0/
 
 
-#### Credit thanks:
+#### Credit thanks ::pray::thumbsup:
 
-<a href="https://github.com/nsulistiyawan/bpjs" target="_blank">https://github.com/nsulistiyawan/bpjs</a>
+https://github.com/nsulistiyawan/bpjs
