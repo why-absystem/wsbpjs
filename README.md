@@ -15,7 +15,7 @@ $config = [
     'cons_id' => '123456',
     'secret_key' => '123456',
     'base_url' => 'https://new-api.bpjs-kesehatan.go.id:8080',
-    'service_name' => 'vclaim-rest'
+    'service_name' => 'new-vclaim-rest'
 ];
 
 
@@ -41,7 +41,7 @@ $config = [
 
 
 require_once __DIR__ . '/vendor/autoload.php';
-$referensi = new ABSystem\Bpjs\VClaim\Referensi($vclaim_conf);
+$referensi = new ABSystem\Bpjs\VClaim\Referensi($config);
 var_dump($referensi->diagnosa('A00'));
 
 ```
