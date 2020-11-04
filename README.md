@@ -1,5 +1,5 @@
 # WSBPJS
-Wrapper of BPJS
+Wrapper Web Service BPJS
 
 #### INSTALLATION :fire:
 
