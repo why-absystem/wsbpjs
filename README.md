@@ -4,6 +4,10 @@
 
 `composer require absystem/wsbpjs`
 
+#### REQUIREMENTS :warning: 
+
+:small_blue_diamond: PHP >5.6 and Composer
+
 #### SETTING CONFIG HEADER REQUEST :globe_with_meridians:
 
 ```php
@@ -34,7 +38,7 @@ $config = [
 	'service_name' => 'pcare-rest-v3.0',
 	'pcare_user'   => '',
 	'pcare_pass'   => '',
-	'kd_aplikasi'  => '',
+	'kd_aplikasi'  => ''
 ];
 ```
 
