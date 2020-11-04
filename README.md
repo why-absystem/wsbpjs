@@ -16,7 +16,6 @@ $config = [
     'service_name' => 'new-vclaim-rest'
 ];
 
-//https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 
 //aplicaresws
 $config = [
