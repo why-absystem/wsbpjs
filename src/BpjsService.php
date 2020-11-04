@@ -105,7 +105,6 @@
 			if ($this->pcare_user && $this->pcare_pass && $this->kd_aplikasi) {
 				$this->headers['X-Authorization'] = $this->authorization;
 			}
-			var_dump($this->headers);
 			return $this;
 		}
 		
