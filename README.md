@@ -1,11 +1,10 @@
 # WSBPJS
 
-#### Installation :fire:
+#### INSTALLATION :fire:
 
 `composer require absystem/wsbpjs`
 
 #### SETTING CONFIG :globe_with_meridians:
-:
 
 ```php
  
@@ -53,6 +52,6 @@ var_dump($referensi->diagnosa('A00'));
 :white_small_square: pcare = https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0/
 
 
-#### :link:&nbsp;&nbsp;Credit Thanks :thumbsup:
+#### :link:&nbsp;&nbsp;CREDIT THANKS :thumbsup:
 
 https://github.com/nsulistiyawan/bpjs
