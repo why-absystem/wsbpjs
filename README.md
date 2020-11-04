@@ -4,14 +4,14 @@
 
 `composer require absystem/wsbpjs`
 
-#### SETTING CONFIG :globe_with_meridians:
+#### SETTING CONFIG HEADER REQUEST :globe_with_meridians:
 
 ```php
  
 //vclaim
 $config = [
-	'cons_id'      => '123456',
-	'secret_key'   => '123456',
+	'cons_id'      => '',
+	'secret_key'   => '',
 	'base_url'     => 'https://new-api.bpjs-kesehatan.go.id:8080',
 	'service_name' => 'new-vclaim-rest'
 ];
@@ -19,8 +19,8 @@ $config = [
 
 //aplicaresws
 $config = [
-	'cons_id'      => '123456',
-	'secret_key'   => '123456',
+	'cons_id'      => '',
+	'secret_key'   => '',
 	'base_url'     => 'https://new-api.bpjs-kesehatan.go.id:8080',
 	'service_name' => 'aplicaresws/rest'
 ];
@@ -28,17 +28,17 @@ $config = [
 
 //pcare
 $config = [
-	'cons_id'      => '123456',
-	'secret_key'   => '123456',
+	'cons_id'      => '',
+	'secret_key'   => '',
 	'base_url'     => 'https://dvlp.bpjs-kesehatan.go.id:9081',
 	'service_name' => 'pcare-rest-v3.0',
-	'pcare_user'   => 'username',
-	'pcare_pass'   => 'password',
-	'kd_aplikasi'  => '095',
+	'pcare_user'   => '',
+	'pcare_pass'   => '',
+	'kd_aplikasi'  => '',
 ];
 ```
 
-#### PENGGUNAAN :computer:
+#### CONTOH PENGGUNAAN :computer:
 ```php
 require_once __DIR__ . '/vendor/autoload.php';
 $referensi = new \ABSystem\Bpjs\VClaim\Referensi($config);
