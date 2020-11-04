@@ -1,0 +1,21 @@
+{
+	"name": "absystem/wsbpjs",
+	"description": "web service bpjs",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Wahyu Hidayat",
+			"email": "hidayatwahyu87@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"ABSystem\\Bpjs\\": "src/"
+		}
+	},
+	"require": {
+		"guzzlehttp/guzzle": "^7.2"
+	}
+}
