@@ -1,6 +1,6 @@
 # WSBPJS
 
-#### Installation :
+#### Installation :fire:
 
 `composer require absystem/wsbpjs`
 
