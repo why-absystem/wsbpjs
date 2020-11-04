@@ -49,4 +49,4 @@ var_dump($referensi->diagnosa('A00'));
 
 #### Credit thanks:
 
-https://github.com/nsulistiyawan/bpjs
+<a href="https://github.com/nsulistiyawan/bpjs" target="_blank">https://github.com/nsulistiyawan/bpjs</a>
