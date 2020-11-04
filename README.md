@@ -42,7 +42,7 @@ $config = [
 #### PENGGUNAAN :computer:
 ```php
 require_once __DIR__ . '/vendor/autoload.php';
-$referensi = new ABSystem\Bpjs\VClaim\Referensi($config);
+$referensi = new \ABSystem\Bpjs\VClaim\Referensi($config);
 var_dump($referensi->diagnosa('A00'));
 
 ```
