@@ -48,9 +48,9 @@ var_dump($referensi->diagnosa('A00'));
 ```
 
 #### :link:&nbsp;&nbsp;REFERENSI REST :blue_book:
-:arrow_forward:  vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
+:white_small_square: vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 <br/>
-:arrow_forward:  pcare = https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0/
+:white_small_square: pcare = https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0/
 
 
 #### :link:&nbsp;&nbsp;Credit Thanks :thumbsup:
