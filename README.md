@@ -1,5 +1,4 @@
 # WSBPJS
-PHP package wrapper Web Service BPJS
 
 #### INSTALLATION :fire:
 
