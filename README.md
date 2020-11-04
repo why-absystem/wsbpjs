@@ -6,7 +6,9 @@
 
 #### REQUIREMENTS :warning: 
 
-:small_blue_diamond: PHP >5.6 and Composer
+:black_small_square: PHP >=5.6
+<br/>
+:black_small_square: <a href="https://getcomposer.org/">Composer</a>
 
 #### SETTING CONFIG HEADER REQUEST :globe_with_meridians:
 
