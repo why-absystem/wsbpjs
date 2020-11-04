@@ -9,6 +9,8 @@
 :black_small_square: PHP >=5.6
 <br/>
 :black_small_square: <a href="https://getcomposer.org/">Composer</a>
+<br/>
+:black_small_square: <a href="https://github.com/guzzle/guzzle">Guzzle v6.x</a>, sudah otomatis include dari package.
 
 #### SETTING CONFIG HEADER REQUEST :globe_with_meridians:
 
