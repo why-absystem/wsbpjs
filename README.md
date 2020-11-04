@@ -4,11 +4,9 @@
 
 `composer require absystem/wsbpjs`
 
-#### Contoh
+#### SETTING CONFIG
 
 ```php
-/** SETTING CONFIG */
- 
  
 //vclaim
 $config = [
@@ -18,6 +16,7 @@ $config = [
     'service_name' => 'new-vclaim-rest'
 ];
 
+//https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 
 //aplicaresws
 $config = [
@@ -38,13 +37,20 @@ $config = [
     'pcare_pass' => 'password',
     'kd_aplikasi' => '095',
 ];
+```
 
-
+#### PENGGUNAAN
+```php
 require_once __DIR__ . '/vendor/autoload.php';
 $referensi = new ABSystem\Bpjs\VClaim\Referensi($config);
 var_dump($referensi->diagnosa('A00'));
 
 ```
+
+#### REFERENSI REST
+vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
+<br/>
+pcare = https://new-api.bpjs-kesehatan.go.id/pcare-rest-v3.0/
 
 
 #### Credit thanks:
