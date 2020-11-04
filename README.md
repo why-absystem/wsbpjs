@@ -10,7 +10,7 @@
 <br/>
 :black_small_square: <a href="https://getcomposer.org/">Composer</a>
 <br/>
-:black_small_square: <a href="https://github.com/guzzle/guzzle">Guzzle v6.x</a>, sudah otomatis include dari package.
+:black_small_square: <a href="https://github.com/guzzle/guzzle">Guzzle v6.x</a> sudah include di package.
 
 #### SETTING CONFIG HEADER REQUEST :globe_with_meridians:
 
