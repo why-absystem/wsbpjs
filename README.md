@@ -50,7 +50,7 @@ var_dump($referensi->diagnosa('A00'));
 #### :link:&nbsp;&nbsp;REFERENSI REST :blue_book:
 vclaim & aplicaresws = https://dvlp.bpjs-kesehatan.go.id/VClaim-Katalog
 <br/>
-pcare = https://new-api.bpjs-kesehatan.go.id/pcare-rest-v3.0/
+pcare = https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0/
 
 
 #### :link:&nbsp;&nbsp;Credit Thanks :thumbsup:
